@@ -30,7 +30,7 @@ setup(
     download_url = 'https://github.com/igor-shevchenko/rutermextract/tarball/%s' % VERSION,
 
     requires = [
-        'pymorphy2 (>=0.8)',
+        'pymorphy2 (==0.9.1)',
         'enum34 (>=1.0)',
         'backport_collections (>=0.1)'
     ],
