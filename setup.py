@@ -5,7 +5,7 @@ from io import open
 VERSION = '0.3'
 
 install_requires = [
-    'pymorphy2 >=0.8'
+    'pymorphy2 ==0.9.1'
 ]
 
 if sys.version_info < (2, 7):
