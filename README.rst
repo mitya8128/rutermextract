@@ -7,7 +7,7 @@ rutermextract
 Установка
 =========
 
-    pip install rutermextract    
+    pip install git+https://github.com/mitya8128/rutermextract        
 
 Использование
 =============
